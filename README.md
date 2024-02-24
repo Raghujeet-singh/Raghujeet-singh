@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full_Stack developer</h3>
 
 <img align="right" alt="Coding" width="400" src="./APPROVED21.gif">
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/114500705?v=4" alt="Raghujeet" /> </p>
+<p align="left"> <img src="" alt="Raghujeet" /> </p>
 
 - 🔭 I’m currently working on different types of projects which helps to learn emerging technology.
 
