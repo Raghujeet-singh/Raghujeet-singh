@@ -46,12 +46,4 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 
 
-   
 
-  <tr align="center">
-    <td>Kodnest</td>
-    <td><a href="https://github.com/Raghujeet Singh/Java-Mini-Project-1">Git_Java Mini Project!</a></td>
-     <td><a href="https://github.com/Raghujeet Singh/Java-Mini-Project-1">Java</a></td>
-    <td>India</td>
-  </tr>
-</table>
