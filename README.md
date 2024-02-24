@@ -18,18 +18,18 @@
 
 - 💬 Ask me about **React Js, Next Js, MongoDB, SQL & JavaScript etc...**
 
-- 📫 How to reach me **singhraghujeet014@gmail.com** 📱 Phone: **+91-9934906211**
+- 📫 How to reach me **singhraghujeet01@gmail.com** 📱 Phone: **+91-9934906211**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/chandanhm1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chandanhm" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chandan-hm-b8319021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanhm" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21763624/chandan-hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15755335" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009443863718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandanhm" height="30" width="40" /></a>
-<a href="https://www.instagram.com/life_on_roads_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandanhm" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chandanchanduhm4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandanhm" height="30" width="40" /></a>
-<a href="https://leetcode.com/chandanchanduhm4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandanhm" height="30" width="40" /></a>
+<a href="https://dev.to/Raghujeet Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Raghujeet Singh-b8319021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanhm" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21763624/Raghujeet Singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15755335" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009443863718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Raghujeet Singh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/life_on_roads_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Raghujeet Singh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chandanchanduhm4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Raghujeet Singh" height="30" width="40" /></a>
+<a href="https://leetcode.com/chandanchanduhm4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Raghujeet Singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,11 +59,11 @@
 
 ## My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandanhm1999&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghujeet Singh1999&theme=swift)
     
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandanhm1999&theme=swift)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandanhm1999&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghujeet Singh&theme=swift)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raghujeet Singh&theme=swift)
     
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandanhm1999&theme=swift)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandanhm1999&theme=swift&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raghujeet Singh&theme=swift)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raghujeet Singh&theme=swift&utcOffset=8)
 
 <details>
 <summary>💁 Testimonials</summary>
@@ -78,70 +78,70 @@
   
   <tr>
     <td align="center">Rayabhari Technologies</td>
-    <td align="center"><a href="https://github.com/chandanhm1999/C-devops_Cart-Ecommerce-App">Git_Ecommerce-App</a></td>
+    <td align="center"><a href="https://github.com/Raghujeet Singh/C-devops_Cart-Ecommerce-App">Git_Ecommerce-App</a></td>
      <td align="center"><a href="https://c-devops-cart-ecommerce-app.vercel.app/">C-devops</a></td>
     <td align="center">India</td>
   </tr>
   <tr>
     <td align="center">LetsEndorse</td>
-    <td align="center"><a href="https://github.com/chandanhm1999/react-js-loginpage-letsendorse">Git_Login_page</a></td>
+    <td align="center"><a href="https://github.com/Raghujeet Singh/react-js-loginpage-letsendorse">Git_Login_page</a></td>
      <td align="center"><a href="https://react-js-loginpage-letsendorse.vercel.app/">Web Page</a></td>
     <td align="center">India</td>
   </tr>
   <tr align="center">
     <td>Buena Logica Technologies</td>
-    <td><a href="https://github.com/chandanhm1999/CatalogImage-Viewer-React">Git_CatalogViewer</a></td>
-     <td><a href="https://csb-dxtdge-chandanhm1999.vercel.app/">CatalogViewer</a></td>
+    <td><a href="https://github.com/Raghujeet Singh/CatalogImage-Viewer-React">Git_CatalogViewer</a></td>
+     <td><a href="https://csb-dxtdge-Raghujeet Singh.vercel.app/">CatalogViewer</a></td>
     <td>India</td>
   </tr>
   <tr align="center">
     <td>Ideas- I2E</td>
-    <td><a href="https://github.com/chandanhm1999/loginpage-i2e-reactjs">Git_Login_page-Figma UI</a></td>
+    <td><a href="https://github.com/Raghujeet Singh/loginpage-i2e-reactjs">Git_Login_page-Figma UI</a></td>
      <td><a href="https://loginpage-i2e-reactjs.vercel.app/">Web App</a></td>
     <td>India</td>
   </tr>
   <tr align="center">
     <td>Medpick</td>
-    <td><a href="https://github.com/chandanhm1999/Data-Chart-Home-page-design">Git_Data_Echarts</a></td>
+    <td><a href="https://github.com/Raghujeet Singh/Data-Chart-Home-page-design">Git_Data_Echarts</a></td>
      <td><a href="https://dashbordapp.vercel.app/">Data Analytics</a></td>
     <td>India</td>
   </tr>
   <tr align="center">
     <td>Emitrr</td>
-    <td><a href="https://github.com/chandanhm1999/Web-Game-App-Reactjs-Kitten">Git_Exploding-Kitten</a></td>
-     <td><a href="https://github.com/chandanhm1999/Web-Game-App-Reactjs-Kitten">Exploding-Kitten</a></td>
+    <td><a href="https://github.com/Raghujeet Singh/Web-Game-App-Reactjs-Kitten">Git_Exploding-Kitten</a></td>
+     <td><a href="https://github.com/Raghujeet Singh/Web-Game-App-Reactjs-Kitten">Exploding-Kitten</a></td>
     <td>India</td>
   </tr>
   <tr align="center">
     <td>Discover Dollar Tech..</td>
-    <td><a href="https://github.com/chandanhm1999/tavel-search-react-app-task">Git_UI Design</a></td>
-     <td><a href="https://github.com/chandanhm1999/tavel-search-react-app-task">UI Design</a></td>
+    <td><a href="https://github.com/Raghujeet Singh/tavel-search-react-app-task">Git_UI Design</a></td>
+     <td><a href="https://github.com/Raghujeet Singh/tavel-search-react-app-task">UI Design</a></td>
     <td>India</td>
   </tr>
   <tr align="center">
     <td>Contenterra</td>
-    <td><a href="https://github.com/chandanhm1999/React-Posts-Axious-ContenTerra">Git_Api_Data-Fetching!</a></td>
+    <td><a href="https://github.com/Raghujeet Singh/React-Posts-Axious-ContenTerra">Git_Api_Data-Fetching!</a></td>
      <td><a href="https://react-posts-axious-conten-terra.vercel.app/">Api-App</a></td>
     <td>India</td>
   </tr>
   <tr align="center">
     <td>uExcelerate</td>
-    <td><a href="https://github.com/chandanhm1999/react-programs-series1">Git_React!</a></td>
-     <td><a href="https://github.com/chandanhm1999/react-programs-series1">React</a></td>
+    <td><a href="https://github.com/Raghujeet Singh/react-programs-series1">Git_React!</a></td>
+     <td><a href="https://github.com/Raghujeet Singh/react-programs-series1">React</a></td>
     <td>India</td>
   </tr>
   
   <tr align="center">
     <td>Intershala</td>
-    <td><a href="https://github.com/chandanhm1999/chat-bot-react-Native">Git_ReactNative</a></td>
-     <td><a href="https://github.com/chandanhm1999/chat-bot-react-Native">ReactNative</a></td>
+    <td><a href="https://github.com/Raghujeet Singh/chat-bot-react-Native">Git_ReactNative</a></td>
+     <td><a href="https://github.com/Raghujeet Singh/chat-bot-react-Native">ReactNative</a></td>
     <td>India</td>
   </tr>
   
   <tr align="center">
     <td>Kodnest</td>
-    <td><a href="https://github.com/chandanhm1999/Java-Mini-Project-1">Git_Java Mini Project!</a></td>
-     <td><a href="https://github.com/chandanhm1999/Java-Mini-Project-1">Java</a></td>
+    <td><a href="https://github.com/Raghujeet Singh/Java-Mini-Project-1">Git_Java Mini Project!</a></td>
+     <td><a href="https://github.com/Raghujeet Singh/Java-Mini-Project-1">Java</a></td>
     <td>India</td>
   </tr>
 </table>
