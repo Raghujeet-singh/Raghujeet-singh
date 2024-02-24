@@ -51,93 +51,11 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 
-<details>
-<summary>📈 Stats</summary>
-<br>
 
-## My Github Stats
+   
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghujeet Singh1999&theme=swift)
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghujeet Singh&theme=swift)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raghujeet Singh&theme=swift)
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raghujeet Singh&theme=swift)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raghujeet Singh&theme=swift&utcOffset=8)
-
-<details>
-<summary>💁 Testimonials</summary>
-<br>
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Project Details!</th>
-    <th>Live Link!</th>
-    <th>Country</th>
-  </tr>
-  
-  <tr>
-    <td align="center">Rayabhari Technologies</td>
-    <td align="center"><a href="https://github.com/Raghujeet Singh/C-devops_Cart-Ecommerce-App">Git_Ecommerce-App</a></td>
-     <td align="center"><a href="https://c-devops-cart-ecommerce-app.vercel.app/">C-devops</a></td>
-    <td align="center">India</td>
-  </tr>
-  <tr>
-    <td align="center">LetsEndorse</td>
-    <td align="center"><a href="https://github.com/Raghujeet Singh/react-js-loginpage-letsendorse">Git_Login_page</a></td>
-     <td align="center"><a href="https://react-js-loginpage-letsendorse.vercel.app/">Web Page</a></td>
-    <td align="center">India</td>
-  </tr>
-  <tr align="center">
-    <td>Buena Logica Technologies</td>
-    <td><a href="https://github.com/Raghujeet Singh/CatalogImage-Viewer-React">Git_CatalogViewer</a></td>
-     <td><a href="https://csb-dxtdge-Raghujeet Singh.vercel.app/">CatalogViewer</a></td>
-    <td>India</td>
-  </tr>
-  <tr align="center">
-    <td>Ideas- I2E</td>
-    <td><a href="https://github.com/Raghujeet Singh/loginpage-i2e-reactjs">Git_Login_page-Figma UI</a></td>
-     <td><a href="https://loginpage-i2e-reactjs.vercel.app/">Web App</a></td>
-    <td>India</td>
-  </tr>
-  <tr align="center">
-    <td>Medpick</td>
-    <td><a href="https://github.com/Raghujeet Singh/Data-Chart-Home-page-design">Git_Data_Echarts</a></td>
-     <td><a href="https://dashbordapp.vercel.app/">Data Analytics</a></td>
-    <td>India</td>
-  </tr>
-  <tr align="center">
-    <td>Emitrr</td>
-    <td><a href="https://github.com/Raghujeet Singh/Web-Game-App-Reactjs-Kitten">Git_Exploding-Kitten</a></td>
-     <td><a href="https://github.com/Raghujeet Singh/Web-Game-App-Reactjs-Kitten">Exploding-Kitten</a></td>
-    <td>India</td>
-  </tr>
-  <tr align="center">
-    <td>Discover Dollar Tech..</td>
-    <td><a href="https://github.com/Raghujeet Singh/tavel-search-react-app-task">Git_UI Design</a></td>
-     <td><a href="https://github.com/Raghujeet Singh/tavel-search-react-app-task">UI Design</a></td>
-    <td>India</td>
-  </tr>
-  <tr align="center">
-    <td>Contenterra</td>
-    <td><a href="https://github.com/Raghujeet Singh/React-Posts-Axious-ContenTerra">Git_Api_Data-Fetching!</a></td>
-     <td><a href="https://react-posts-axious-conten-terra.vercel.app/">Api-App</a></td>
-    <td>India</td>
-  </tr>
-  <tr align="center">
-    <td>uExcelerate</td>
-    <td><a href="https://github.com/Raghujeet Singh/react-programs-series1">Git_React!</a></td>
-     <td><a href="https://github.com/Raghujeet Singh/react-programs-series1">React</a></td>
-    <td>India</td>
-  </tr>
-  
-  <tr align="center">
-    <td>Intershala</td>
-    <td><a href="https://github.com/Raghujeet Singh/chat-bot-react-Native">Git_ReactNative</a></td>
-     <td><a href="https://github.com/Raghujeet Singh/chat-bot-react-Native">ReactNative</a></td>
-    <td>India</td>
-  </tr>
-  
   <tr align="center">
     <td>Kodnest</td>
     <td><a href="https://github.com/Raghujeet Singh/Java-Mini-Project-1">Git_Java Mini Project!</a></td>
