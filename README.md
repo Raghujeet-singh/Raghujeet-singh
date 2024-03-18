@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on different types of projects which helps to learn emerging technology.
 
-- </>💻 **Associate Software Engineer Intern** at **COSMIC365.AI** [MERN STACK]
+- </>💻 **Software Engineer Intern** at **QikBuk** [MERN STACK]
 
 - 🌱 I’m currently learning **Node Js and RESTAPI**
 
