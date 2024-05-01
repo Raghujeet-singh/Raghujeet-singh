@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full_Stack developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun factA passionate Full_Stack developer<br><br><br>🔭 I’m currently working on different types of projects which helps to learn emerging technology.<br><br></>💻 Software Engineer Intern at QikBuk [MERN STACK]<br><br>🌱 I’m currently learning Node Js and RESTAPI<br><br>👨‍💻 All of my projects are available at (https://jeet-portfolio-liard.vercel.app/)<br><br>💬 Ask me about React Js, Next Js, MongoDB, SQL & JavaScript etc...<br><br>📫 How to reach me singhraghujeet01@gmail.com 📱 Phone: +91-9934906211
+A passionate Full_Stack developer<br><br><br>🔭 I’m currently working on different types of projects which helps to learn emerging technology.<br><br></>💻 Software Engineer Intern at QikBuk [MERN STACK]<br><br>🌱 I’m currently learning Node Js and RESTAPI<br><br>👨‍💻 All of my projects are available at (https://jeet-portfolio-liard.vercel.app/)<br><br>💬 Ask me about React Js, Next Js, MongoDB, SQL & JavaScript etc...<br><br>📫 How to reach me singhraghujeet01@gmail.com 📱 Phone: +91-9934906211
 
 
 ## 🌐 Socials:
