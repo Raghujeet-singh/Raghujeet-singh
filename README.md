@@ -17,8 +17,7 @@ MongoDB
 SQL
 JavaScript
 And more!<br><br>📫 Get in Touch:
-Email: singhraghujeet01@gmail.com
-Phone: +91-9934906211
+Email: singhraghujeet01@gmail.com, Phone: +91-9934906211
 
 
 ## 🌐 Socials:
