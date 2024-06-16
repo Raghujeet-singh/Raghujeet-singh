@@ -6,7 +6,19 @@
 <h3 align="center">A passionate Full_Stack developer</h3>
 
 # 💫 About Me:
-<br>🔭 I’m currently working on different types of projects which helps to learn emerging technology.<br><br></>💻 Software Engineer Intern at QikBuk [MERN STACK]<br><br>🌱 I’m currently learning Node Js and RESTAPI<br><br>👨‍💻 All of my projects are available at (https://jeet-portfolio-liard.vercel.app/)<br><br>💬 Ask me about React Js, Next Js, MongoDB, SQL & JavaScript etc...<br><br>📫 How to reach me singhraghujeet01@gmail.com 📱 Phone: +91-9934906211
+<br>🔭 Exploring New Horizons:
+Diving into diverse projects to master emerging technologies and push the boundaries of innovation.<br><br></>💼 Current Role:
+Software Engineer Intern at QikBuk Specializing in the MERN Stack<br><br>🌱 Currently Learning:
+Node.js REST API Development<br><br>👨‍💻 My Projects:
+Discover my work and projects on my portfolio website(https://jeet-portfolio-liard.vercel.app).<br><br>💬 Ask Me About:
+React.js
+Node.js
+MongoDB
+SQL
+JavaScript
+And more!<br><br>📫 Get in Touch:
+Email: singhraghujeet01@gmail.com
+Phone: +91-9934906211
 
 
 ## 🌐 Socials:
