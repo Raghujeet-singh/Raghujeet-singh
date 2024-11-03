@@ -1,5 +1,5 @@
 <p align="center"><a href="https://jeet-portfolio-liard.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&duration=1000&pause=100&color=F7A311FF&center=true&multiline=true&width=500&height=80&lines=Raghujeet+SINGH;+%7C%7C+Front-End+Developer+%7C%7C+Full+Stack+Developer+%7C%7C;Software+Engineer+" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&duration=1000&pause=100&color=F7A311FF&center=true&multiline=true&width=500&height=80&lines=RAGHUJEET+SINGH;+%7C%7C+Front-End+Developer+%7C%7C+Full+Stack+Developer+%7C%7C;Software+Engineer+" alt="Typing SVG" />
 </a></p>
 <br>
 <h1 align="center">Hi I'm Raghujeet Singh👋</h1>
