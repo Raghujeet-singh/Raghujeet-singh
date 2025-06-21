@@ -1,7 +1,4 @@
-<p align="center"><a href="https://raghujeet-portfolio.vercel.app//">
-    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)" alt="Typing SVG"/>
-</a></p>
-<br>
+
 <h1 align="center">Hi I'm Raghujeet Singh👋</h1>
 <h3 align="center">A passionate Full_Stack developer</h3>
 
