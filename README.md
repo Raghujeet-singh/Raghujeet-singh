@@ -1,5 +1,5 @@
 <p align="center"><a href="https://raghujeet-portfolio.vercel.app//">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Raghujeet Singh" alt="Typing SVG"/>
+    <img src="[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)" alt="Typing SVG"/>
 </a></p>
 <br>
 <h1 align="center">Hi I'm Raghujeet Singh👋</h1>
