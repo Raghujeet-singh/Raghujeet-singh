@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi I'm RAGHUJEET SINGH👋</h1>
+<h1 align="center">Hi I'm Raghujeet Singh👋</h1>
 <h3 align="center">A passionate Full_Stack developer</h3>
 
 # 💫 About Me:
